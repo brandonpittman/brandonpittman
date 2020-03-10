@@ -3,7 +3,9 @@
   "version": "1.4.1",
   "description": "A personal card for Brandon Pittman (@brandonpittman)",
   "main": "./build.js",
-  "bin": "./bin/index.js",
+  "bin": {
+    "brandonpittman": "./bin/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/brandonpittman/brandonpittman.git"
