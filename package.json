@@ -30,9 +30,9 @@
     "bin"
   ],
   "devDependencies": {
-    "@zeit/ncc": "^0.21.1",
+    "@zeit/ncc": "^0.22.3",
     "boxen": "^4.2.0",
-    "chalk": "^3.0.0",
-    "standard": "^14.3.1"
+    "chalk": "^4.1.0",
+    "standard": "^14.3.4"
   }
 }

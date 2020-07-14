@@ -18,7 +18,7 @@ const data = {
   handle: chalk`{white brandonpittman}`,
   work: chalk`{white Web Director @ Aquaring Global Strategy}`,
   //work: chalk.white('Frontend Wizard @ Quartet Communications'),
-  opensource: chalk`{white.bold Vue | Gridsome | Node.js | Tailwind} {green.bold ⬢}`,
+  opensource: chalk`{white.bold React | Gatsby | Next.js | Vue | Gridsome | Node.js | Tailwind} {green.bold ⬢}`,
   twitter: chalk`{gray https://twitter.com/}{cyan brandonpittman}`,
   npm: chalk`{gray https://npmjs.com/}{red ~brandonpittman}`,
   github: chalk`{gray https://github.com/}{green brandonpittman}`,
