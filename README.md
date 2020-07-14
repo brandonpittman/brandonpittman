@@ -1,4 +1,6 @@
-# Brandon Pittman
+<p align="center">
+  <img src="https://blp.is/favicon-192x192.png" alt="Brandon in a black kimono">
+</p>
 
 ## Description
 
@@ -25,9 +27,10 @@ traveling to or living in Japan called JapanKit. The other is a podcast about
 being fussy about things, title Fussy Show.
 
 If you've found any of my open-source work helpful, please consider supporting
-me on Buy Me a Coffee. Drop me a line on [Twitter][] or shoot me an email (blp at
+me on [Buy Me a Coffee][]. Drop me a line on [Twitter][] or shoot me an email (blp at
 hey dot com).
 
 [gridsome]: https://gridsome.org
 [tailwind]: https://tailwindcss.com
 [twitter]: https://twitter.com/brandonpittman
+[buy me a coffee]: https://www.buymeacoffee.com/blp
