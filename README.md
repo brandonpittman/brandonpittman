@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://blp.is/favicon-192x192.png" alt="Brandon in a black kimono">
-</p>
+</p> -->
 
 ## Description
 
