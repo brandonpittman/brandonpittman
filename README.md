@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonpittman&show_icons=true">
+<img align="center" src="https://github-readme-stats-tan-xi.vercel.app/api?username=brandonpittman&show_icons=true">
 </p>
 
 ## Description
