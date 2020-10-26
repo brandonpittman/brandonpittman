@@ -1,4 +1,4 @@
-[![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=brandonpittman)](https://github.com/anuraghazra/github-readme-stats)
+[![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=brandonpittman&show_icons="true")](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonpittman&layout=compact)](https://github.com/brandonpittman)
 
 ## Description
