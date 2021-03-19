@@ -5,7 +5,7 @@
 ## Description
 
 Originally from Cincinnati, I've been in Aichi, Japan since 2004 (not counting a 1
-year stint back home from mid-2005 to mid-2006). I was an English teach for
+year stint back home from mid-2005 to mid-2006). I was an English teacher for
 quite a while here and after discovering my interest in programming, I left the
 easy-going life of an English teacher in Japan for the soul-crushing life of a
 web (developer/designer/director). I've worn a lot of hats here. I've been to
