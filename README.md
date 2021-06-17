@@ -32,7 +32,7 @@ me on [Buy Me a Coffee][].
 
 Shoot me an [email][email] or check out my [personal site](https://blp.is).
 
-[email]: mailto:email@blp.is
+[email]: mailto:hey@blp.is
 [gridsome]: https://gridsome.org
 [tailwind]: https://tailwindcss.com
 [buy me a coffee]: https://www.buymeacoffee.com/blp
