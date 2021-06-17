@@ -20,13 +20,17 @@ couple years as well. I'm more into React these days, so my future plans are to
 start sharing some of the little React libraries I've built for my own projects
 lately and contribute to some Next.js plugins I use.
 
-## Articles
+## Things I've Written
 
 - [Truncation, Flexbox, and Tables](https://tech.quartetcom.co.jp/2021/06/17/truncation-flexbox-and-tables/)
 
 ## Support My work
 If you've found any of my open-source work helpful, please consider supporting
-me on [Buy Me a Coffee][]. Shoot me an [email][email].
+me on [Buy Me a Coffee][]. 
+
+## Get in Touch
+
+Shoot me an [email][email].
 
 [email]: mailto:email@blp.is
 [gridsome]: https://gridsome.org
