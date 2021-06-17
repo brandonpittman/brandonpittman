@@ -30,7 +30,7 @@ me on [Buy Me a Coffee][].
 
 ## Get in Touch
 
-Shoot me an [email][email].
+Shoot me an [email][email] or check out my [personal site](https://blp.is).
 
 [email]: mailto:email@blp.is
 [gridsome]: https://gridsome.org
