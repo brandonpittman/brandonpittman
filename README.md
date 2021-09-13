@@ -1,7 +1,3 @@
-<p align="center">
-<img align="center" src="https://github-readme-stats-tan-xi.vercel.app/api?username=brandonpittman&show_icons=true">
-</p>
-
 ## About Me
 
 Originally from Cincinnati, I've been in Aichi, Japan since 2004 (not counting a 1
