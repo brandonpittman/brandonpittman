@@ -445,9 +445,8 @@ const options = {
 
 const data = {
   name: chalk.white("              Brandon Pittman"),
-  work: chalk.white("Frontend Wizard @ Quartet Communications"),
-  opensource: chalk`{white.bold React | Gatsby | Next.js | Vue | Gridsome | Node.js | Tailwind} {green.bold ⬢}`,
-  twitter: chalk`{gray https://twitter.com/}{cyan brandonpittman}`,
+  work: chalk.white("Frontend Magician @ ACALL"),
+  opensource: chalk`{white.bold React | Next.js | Node.js | TailwindCSS | ReScript} {green.bold ⬢}`,
   npm: chalk`{gray https://npmjs.com/}{red ~brandonpittman}`,
   github: chalk`{gray https://github.com/}{green brandonpittman}`,
   wantedly: chalk`{gray https://www.wantedly.com/users/}{blue 80873258}`,
@@ -455,7 +454,6 @@ const data = {
   npx: chalk`{red npx} {white brandonpittman}`,
   labelWork: chalk.white.bold("       Work:"),
   labelOpenSource: chalk.white.bold("Open Source:"),
-  labelTwitter: chalk.white.bold("    Twitter:"),
   labelnpm: chalk.white.bold("        npm:"),
   labelGitHub: chalk.white.bold("     GitHub:"),
   labelWantedly: chalk.white.bold("   Wantedly:"),
@@ -467,7 +465,6 @@ const newline = "\n";
 const heading = `${data.name}`;
 const working = `${data.labelWork}  ${data.work}`;
 const opensourcing = `${data.labelOpenSource}  ${data.opensource}`;
-const twittering = `${data.labelTwitter}  ${data.twitter}`;
 const npming = `${data.labelnpm}  ${data.npm}`;
 const githubing = `${data.labelGitHub}  ${data.github}`;
 const wantedlying = `${data.labelWantedly}  ${data.wantedly}`;
@@ -482,8 +479,6 @@ const output =
   newline +
   opensourcing +
   newline +
-  newline +
-  twittering +
   newline +
   npming +
   newline +

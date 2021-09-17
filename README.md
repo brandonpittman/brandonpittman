@@ -11,7 +11,8 @@ spread my designer-y wings.
 
 ## Things I've Made
 
-My first big open-source project was my scripting library for OminFocus. I've built a bunch of [Gridsome][] and [Tailwind][]-related projects over the last
+My first big open-source project was my scripting library for OminFocus. I've
+built a bunch of [Gridsome][] and [Tailwind][]-related projects over the last
 couple years as well. I'm more into React these days, so my future plans are to
 start sharing some of the little React libraries I've built for my own projects
 lately and contribute to some Next.js plugins I use.
