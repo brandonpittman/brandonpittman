@@ -4,10 +4,7 @@ Originally from Cincinnati, I've been in Aichi, Japan since 2004 (not counting a
 year stint back home from mid-2005 to mid-2006). I was an English teacher for
 quite a while here and after discovering my interest in programming, I left the
 easy-going life of an English teacher in Japan for the soul-crushing life of a
-web (developer/designer/director). I've worn a lot of hats here. I've been to
-the belly of the Japanese salaryman beast and it's fucking horrifying.
-Thankfully, I escaped to a much nicer place (now) and I'm getting a chance to
-spread my designer-y wings.
+web (developer/designer/director). I've worn a lot of hats here. 
 
 ## Things I've Made
 
@@ -16,6 +13,10 @@ built a bunch of [Gridsome][] and [Tailwind][]-related projects over the last
 couple years as well. I'm more into React these days, so my future plans are to
 start sharing some of the little React libraries I've built for my own projects
 lately and contribute to some Next.js plugins I use.
+
+## Philosophy
+
+I'm a practicing Stoic. I try to apply the Socratic Method to all discourse. I look for the clearest/simplest solution to any problem.
 
 ## Support My work
 If you've found any of my open-source work helpful, please consider supporting
