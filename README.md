@@ -4,7 +4,11 @@ Originally from Cincinnati, I've been in Aichi, Japan since 2004 (not counting a
 year stint back home from mid-2005 to mid-2006). I was an English teacher for
 quite a while here and after discovering my interest in programming, I left the
 easy-going life of an English teacher in Japan for the soul-crushing life of a
-web (developer/designer/director). I've worn a lot of hats here. 
+web (developer/designer/director). I've worn a lot of hats here.
+
+I'm married to a wonderful woman and have a 6 month old son. I train Brazilian
+jiu-jitsu a couple times a week. I read a lot of philosophy and history in my
+free time.
 
 ## Things I've Made
 
@@ -14,13 +18,20 @@ couple years as well. I'm more into React these days, so my future plans are to
 start sharing some of the little React libraries I've built for my own projects
 lately and contribute to some Next.js plugins I use.
 
+## Current Obsession
+
+I'm super into [Remix][] right now. I love it because it encourages you to use
+standard Web APIs and model your communication with the server as
+tried-and-true form submissions.
+
 ## Philosophy
 
 I'm a practicing Stoic. I try to apply the Socratic Method to all discourse. I look for the clearest/simplest solution to any problem.
 
 ## Support My work
+
 If you've found any of my open-source work helpful, please consider supporting
-me on [Buy Me a Coffee][]. 
+me on [Buy Me a Coffee][].
 
 ## Get in Touch
 
@@ -29,4 +40,5 @@ Shoot me an [email][email] or check out my [personal site](https://blp.is).
 [email]: mailto:hey@blp.is
 [gridsome]: https://gridsome.org
 [tailwind]: https://tailwindcss.com
+[remix]: https://remix.run
 [buy me a coffee]: https://www.buymeacoffee.com/blp
