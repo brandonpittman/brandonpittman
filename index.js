@@ -14,12 +14,12 @@ const options = {
 };
 
 const data = {
-  name: chalk.white("              Brandon Pittman"),
+  name: chalk.white.bold("              Brandon Pittman"),
   work: chalk.white("Frontend Magician @ Splink"),
-  opensource: chalk`{white.bold React | Remix | Node.js | Tailwind CSS | ReScript} {green.bold ⬢}`,
-  npm: chalk`{gray https://npmjs.com/}{red ~brandonpittman}`,
-  github: chalk`{gray https://github.com/}{green brandonpittman}`,
-  wantedly: chalk`{gray https://www.wantedly.com/users/}{blue 80873258}`,
+  opensource: chalk`{white React | Remix | ReScript | Tailwind CSS}`,
+  npm: chalk`{red https://npmjs.com/~brandonpittman}`,
+  github: chalk`{green https://github.com/brandonpittman}`,
+  wantedly: chalk`{blue https://www.wantedly.com/users/80873258}`,
   web: chalk`{cyan https://blp.is}`,
   npx: chalk`{red npx} {white brandonpittman}`,
   labelWork: chalk.white.bold("       Work:"),
@@ -48,7 +48,6 @@ const output =
   working +
   newline +
   opensourcing +
-  newline +
   newline +
   npming +
   newline +
