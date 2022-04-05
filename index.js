@@ -15,8 +15,8 @@ const options = {
 
 const data = {
   name: chalk.white("              Brandon Pittman"),
-  work: chalk.white("Frontend Magician @ ACALL"),
-  opensource: chalk`{white.bold React | Next.js | Node.js | TailwindCSS | ReScript} {green.bold ⬢}`,
+  work: chalk.white("Frontend Magician @ Splink"),
+  opensource: chalk`{white.bold React | Remix | Node.js | Tailwind CSS | ReScript} {green.bold ⬢}`,
   npm: chalk`{gray https://npmjs.com/}{red ~brandonpittman}`,
   github: chalk`{gray https://github.com/}{green brandonpittman}`,
   wantedly: chalk`{gray https://www.wantedly.com/users/}{blue 80873258}`,
