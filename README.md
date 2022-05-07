@@ -23,10 +23,6 @@ I'm super into [Remix][] right now. I love it because it encourages you to use
 standard Web APIs and model your communication with the server as
 tried-and-true form submissions.
 
-## Philosophy
-
-I'm a practicing Stoic. I try to apply the Socratic Method to all discourse. I look for the clearest/simplest solution to any problem.
-
 ## Support My work
 
 If you've found any of my open-source work helpful, please consider supporting
