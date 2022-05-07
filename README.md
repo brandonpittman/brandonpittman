@@ -7,8 +7,7 @@ easy-going life of an English teacher in Japan for the soul-crushing life of a
 web (developer/designer/director). I've worn a lot of hats here.
 
 I'm married to a wonderful woman and have a 6 month old son. I train Brazilian
-jiu-jitsu a couple times a week. I read a lot of philosophy and history in my
-free time.
+jiu-jitsu and I'm a traditional Stoic.
 
 ## Things I've Made
 
