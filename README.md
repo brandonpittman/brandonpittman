@@ -19,7 +19,7 @@ lately and contribute to some Next.js plugins I use.
 
 ## Current Obsession
 
-I'm super into [Remix][] right now. I love it because it encourages you to use
+I'm super into [Remix][] and [Astro][] right now. I love it because it encourages you to use
 standard Web APIs and model your communication with the server as
 tried-and-true form submissions.
 
@@ -36,4 +36,5 @@ Shoot me an [email][email] or check out my [personal site](https://blp.is).
 [gridsome]: https://gridsome.org
 [tailwind]: https://tailwindcss.com
 [remix]: https://remix.run
+[astro]: https://astro.build
 [buy me a coffee]: https://www.buymeacoffee.com/blp
