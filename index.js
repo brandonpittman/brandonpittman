@@ -16,11 +16,11 @@ const options = {
 const data = {
   name: chalk.white.bold("              Brandon Pittman"),
   work: chalk.white("Frontend Magician @ Splink"),
-  opensource: chalk`{white React | Remix | ReScript | Tailwind CSS}`,
+  opensource: chalk`{white React | Remix | Qwik | Vanilla Extract}`,
   npm: chalk`{red https://npmjs.com/~brandonpittman}`,
   github: chalk`{green https://github.com/brandonpittman}`,
   wantedly: chalk`{blue https://www.wantedly.com/users/80873258}`,
-  web: chalk`{cyan https://blp.is}`,
+  web: chalk`{cyan https://brandonpittman.com}`,
   npx: chalk`{red npx} {white brandonpittman}`,
   labelWork: chalk.white.bold("       Work:"),
   labelOpenSource: chalk.white.bold("Open Source:"),
