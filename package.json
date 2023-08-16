@@ -12,9 +12,11 @@
   },
   "scripts": {
     "prepublishOnly": "npm run build",
+    "release": "np",
     "build": "ncc build ./index.js -o ./bin",
     "dev": "ncc build ./index.js -o ./bin -w",
-    "lint": "standard"
+    "lint": "standard",
+    "test": ""
   },
   "keywords": [
     "card",
@@ -29,10 +31,14 @@
   "files": [
     "bin"
   ],
+  "engines": {
+    "node": "16"
+  },
   "devDependencies": {
     "@zeit/ncc": "^0.22.3",
     "boxen": "^4.2.0",
     "chalk": "^4.1.0",
+    "np": "^8.0.4",
     "standard": "^14.3.4"
   }
 }
